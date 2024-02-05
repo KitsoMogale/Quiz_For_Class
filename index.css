@@ -1,0 +1,48 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    display:flex;
+    background-image:  url("./images/IMG_2.jpg");
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+    flex-direction: column;
+    align-items: center;
+    height:250vh;
+    width:100%;
+    
+}
+
+
+
+#btn1{
+    background-color: green;
+    color:white;
+    font-weight: bold;
+}
+h1{
+    color:black;
+}
+
+h2{
+    color:yellow;
+}
+
+#input-0{
+    background-color: brown;
+    width:65px;
+    color:white;
+    padding:3px;
+    
+}
+
+#btn{
+    background-color: green;
+    color:white;
+    margin:10px;
+}
+
+p{
+    font-weight: bold;
+    color:navy;
+}
